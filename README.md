@@ -1,3 +1,3 @@
 # Testing Mergify
 
-Adding a new line
+Adding a new line with some text
